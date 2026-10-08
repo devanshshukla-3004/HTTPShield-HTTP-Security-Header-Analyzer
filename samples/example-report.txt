@@ -1,0 +1,15 @@
+HTTPShield example
+
+Target: https://example.com
+Purpose: defensive HTTP response analysis
+
+Checks:
+- HTTPS and redirect behavior
+- HSTS
+- Content-Security-Policy
+- X-Content-Type-Options
+- clickjacking protection
+- Referrer-Policy
+- Permissions-Policy
+- technology disclosure
+- cookie security attributes
