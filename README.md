@@ -172,17 +172,6 @@ It does not:
 
 Some security headers are context-dependent. APIs and non-HTML responses may not need every browser-oriented control.
 
-## 🗺️ Roadmap
-
-- richer CSP directive analysis;
-- cookie expiration/domain/path risk analysis;
-- TLS certificate metadata;
-- baseline comparison;
-- HTML report;
-- SARIF output;
-- optional local dashboard;
-- versioned security rules.
-
 ## 📁 Project structure
 
 ```
